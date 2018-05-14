@@ -346,6 +346,13 @@
         });
     };
 
+    function initializeSlider(){
+        jQuery('.camera_wrap').camera({ //here I declared some settings, the height and the presence of the thumbnails 
+            height: '49%',
+            pagination: false,
+            thumbnails: false
+        });
+    }
 
    /* Initialize
     * ------------------------------------------------------ */
@@ -364,7 +371,7 @@
         clAOS();
         clAjaxChimp();
         clBackToTop();
-
+        initializeSlider();
     })();
         
 })(jQuery);
