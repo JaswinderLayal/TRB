@@ -349,7 +349,7 @@
     function initializeSlider(){
         var height='49%'
         if(window.screen.width<600){
-            height='80%'
+            height='100%'
         }
         jQuery('.camera_wrap').camera({ //here I declared some settings, the height and the presence of the thumbnails 
             height: height,
