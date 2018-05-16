@@ -2300,6 +2300,9 @@ html.no-csstransitions .home-content__main {
 background: transparent;
 height: 90%;
 }
+
+
+
 .camera_caption h2{
   font-size: 25px;
 }
@@ -2372,6 +2375,9 @@ height: 90%;
   }
   .process h4 {
     font-size: 2.4rem;
+  }
+  .camera_caption{
+      height:180%;
   }
 }
 @media only screen and (max-width: 400px) {
