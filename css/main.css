@@ -1,7 +1,7 @@
 html {
   font-size: 10px;
 }
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 600px) {
   html {
     font-size: 9.411764705882353px;
   }
@@ -771,7 +771,7 @@ label > input[type="radio"] {
 }
 
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 600px) {
   .layout{
     margin-left:0;
     margin-bottom: 15px;
@@ -1342,7 +1342,7 @@ input::-moz-focus-inner {
     font-size: 3.6rem;
   }
 }
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 600px) {
   .display-1 {
     font-size: 3.3rem;
   }
@@ -1351,7 +1351,7 @@ input::-moz-focus-inner {
     font-size: 1.4rem;
   }
 }
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 600px) {
   .display-1 {
     font-size: 3rem;
   }
@@ -1697,12 +1697,12 @@ input::-moz-focus-inner {
     top: 30px;
   }
 }
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 600px) {
   .header-menu-toggle::before {
     display: none;
   }
 }
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 600px) {
   .s-header {
     top: 0;
   }
@@ -2215,7 +2215,7 @@ html.no-csstransitions .home-content__main {
     width: 4.2rem;
   }
 }
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 600px) {
   .home-content h1 {
     font-size: 5rem;
   }
@@ -2235,7 +2235,7 @@ html.no-csstransitions .home-content__main {
     padding-top: 2.4rem;
   }
 }
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 600px) {
   .s-home {
     min-height: 630px;
   }
@@ -2339,7 +2339,7 @@ html.no-csstransitions .home-content__main {
 
 .camera_wrap{
   z-index: 99 !important;
-  /* min-height: 400px !important; */
+  /* min-height: 600px !important; */
 }
 
 .camera_overlayer{
@@ -2440,7 +2440,7 @@ height: 90%;
       height:auto;
   }
 }
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 600px) {
   .s-about {
     padding:2.1rem 0;
   }
@@ -2540,7 +2540,7 @@ height: 90%;
     padding: 0 10px;
   }
 }
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 600px) {
   .s-services {
     padding: 2.1rem 0;
   }
@@ -2803,7 +2803,7 @@ height: 90%;
     width: 100%;
   }
 }
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 600px) {
   .s-works {
     padding: 2.1rem 0;
   }
@@ -3060,7 +3060,7 @@ height: 90%;
     font-size: 8.4rem;
   }
 }
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 600px) {
   .s-stats {
     padding-top: 4.5rem;
     padding-bottom: 4.5rem;
@@ -3466,7 +3466,7 @@ height: 90%;
     margin-top: 0;
   }
 }
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 600px) {
   .s-contact {
     padding-top: 2.1rem;
     padding-bottom: 3rem;
