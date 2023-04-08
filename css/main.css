@@ -791,12 +791,12 @@ label > input[type="radio"] {
     padding-right: 35px;
   }
   .layout__item{
-    padding-left:25px;
+    padding-left:35px;
   }
  
 
   .layout:nth-child(even) .layout__item{
-    padding:0 16px;
+    padding:0 35px;
   }
 
   .layout__item--figure{
@@ -2442,7 +2442,7 @@ height: 90%;
 }
 @media only screen and (max-width: 600px) {
   .s-about {
-    padding:2.1rem 0;
+    padding:4.2rem 0;
   }
 
   .process h4 {
@@ -2542,7 +2542,7 @@ height: 90%;
 }
 @media only screen and (max-width: 600px) {
   .s-services {
-    padding: 2.1rem 0;
+    padding: 4.2rem 0;
   }
 
   .services-list [class*="col-"]:nth-child(n) {
@@ -2805,7 +2805,7 @@ height: 90%;
 }
 @media only screen and (max-width: 600px) {
   .s-works {
-    padding: 2.1rem 0;
+    padding: 4.2rem 0;
   }
 
   .masonry-wrap {
