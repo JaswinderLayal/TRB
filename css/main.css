@@ -787,16 +787,16 @@ label > input[type="radio"] {
     flex-direction: column;
   }
   .layout__item--body{
-    padding-left: 35px;
-    padding-right: 35px;
+    padding-left: 25px;
+    padding-right: 25px;
   }
   .layout__item{
-    padding-left:35px;
+    padding-left:25px;
   }
  
 
   .layout:nth-child(even) .layout__item{
-    padding:0 35px;
+    padding:0 25px;
   }
 
   .layout__item--figure{
@@ -806,6 +806,10 @@ label > input[type="radio"] {
 
   .s-works{
     padding-bottom: 0 !important;
+  }
+
+  .s-works .col-full{
+    padding:0;
   }
 }
 
