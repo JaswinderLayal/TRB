@@ -787,8 +787,8 @@ label > input[type="radio"] {
     flex-direction: column;
   }
   .layout__item--body{
-    padding-left: 25px;
-    padding-right: 25px;
+    padding-left: 35px;
+    padding-right: 35px;
   }
   .layout__item{
     padding-left:25px;
